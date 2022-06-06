@@ -168,7 +168,7 @@ public class ChatFragment extends Fragment implements OnClickFriendStateLinstene
     }
 
     public void readDataUsersListener(MyCallBackListenerComments myCallback) {
-        showDialogPython = new ShowDialogPython(getActivity(),getActivity().getLayoutInflater(),"load");
+        //showDialogPython = new ShowDialogPython(getActivity(),getActivity().getLayoutInflater(),"load");
 
         db.collection("users").addSnapshotListener(new EventListener<QuerySnapshot>() {
             @Override

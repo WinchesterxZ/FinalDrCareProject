@@ -418,7 +418,7 @@ public class ProfileActivity extends AppCompatActivity {
 
     public void readData(MyCallbackUser myCallback) {
         if (userId != null) {
-            showDialogPython = new ShowDialogPython(ProfileActivity.this,ProfileActivity.this.getLayoutInflater(),"load");
+            //showDialogPython = new ShowDialogPython(ProfileActivity.this,ProfileActivity.this.getLayoutInflater(),"load");
             FirebaseFirestore.getInstance().collection("users")
                     .document(userId).get().addOnSuccessListener(new OnSuccessListener<DocumentSnapshot>() {
                 @Override
