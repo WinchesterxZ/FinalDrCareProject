@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "600804880753",
+    "firebase_url": "https://drhello-30ccc-default-rtdb.firebaseio.com",
     "project_id": "drhello-30ccc",
     "storage_bucket": "drhello-30ccc.appspot.com"
   },
@@ -13,6 +14,70 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "600804880753-9l74feqmt15nur0b3v54h7lgdpmiumrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drhello",
+            "certificate_hash": "c2a528f716f79c302cfae9c6d1d782243efa3f1b"
+          }
+        },
+        {
+          "client_id": "600804880753-aq7j6hrr6lj4omsou93054gc6dtt0sct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drhello",
+            "certificate_hash": "cf6cf833a3fb424a490ae77224531a11a2c1340d"
+          }
+        },
+        {
+          "client_id": "600804880753-bqur9scqptq23rr5ukh5ut82s6jgvfil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drhello",
+            "certificate_hash": "05b986bf571caf030ad6f4b11d86e9e8ffe15d06"
+          }
+        },
+        {
+          "client_id": "600804880753-btm8ui4m7gtmhun4mu0c15c8mm8blkl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drhello",
+            "certificate_hash": "80951dd27dade8e5975c964dabf483ac9f36fd28"
+          }
+        },
+        {
+          "client_id": "600804880753-g1uufn3q36lh9lsj5cj1bi1ci7q8qft4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drhello",
+            "certificate_hash": "5570bad2c70785034c8b237378f112e52f2a720c"
+          }
+        },
+        {
+          "client_id": "600804880753-gj4k6ebcfahssjilmc48urjdfj9gsg0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drhello",
+            "certificate_hash": "68e7ac22225752ead58c0d95f75ad03c0b69441e"
+          }
+        },
+        {
+          "client_id": "600804880753-mvos9nfjbsdtafh191f3uoeu4nkhe6v3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drhello",
+            "certificate_hash": "73e18ae314772e1698ca13c6eabb8709b4da3f63"
+          }
+        },
+        {
+          "client_id": "600804880753-oubcjm001sf2fshkrpv1kaalkk3bjrjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.drhello",
+            "certificate_hash": "838a62896842bd93fff5277ff223d69f9053d05a"
+          }
+        },
         {
           "client_id": "600804880753-r4850lb3r4ie07f6i5cqaq4qi5u2445k.apps.googleusercontent.com",
           "client_type": 1,
