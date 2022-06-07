@@ -168,7 +168,7 @@ def diseasePrediction2(psymptoms,refused):
 
 
 def chatbot(text):
-    chatBot = join(dirname(__file__), 'chatBot.pkl')
+    chatBot = join(dirname(__file__), 'withoutTreatment_withSymp3.pkl')
     symp = join(dirname(__file__), 'symp.pkl')
     symp =joblib.load(symp)
     chatBot =joblib.load(chatBot)

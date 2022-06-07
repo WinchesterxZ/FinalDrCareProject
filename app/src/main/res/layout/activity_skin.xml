@@ -188,7 +188,7 @@
                             app:layout_constraintLeft_toLeftOf="parent"/>
                         <TextView
                             android:id="@+id/txt0"
-                            android:layout_width="150dp"
+                            android:layout_width="wrap_content"
                             android:layout_height="75dp"
                             android:gravity="center"
                             android:layout_gravity="left"
@@ -245,7 +245,7 @@
                             app:layout_constraintLeft_toLeftOf="parent"/>
                         <TextView
                             android:id="@+id/txt1"
-                            android:layout_width="200dp"
+                            android:layout_width="wrap_content"
                             android:layout_height="75dp"
                             android:gravity="center"
                             android:layout_gravity="left"
@@ -304,7 +304,7 @@
                             app:layout_constraintLeft_toLeftOf="parent"/>
                         <TextView
                             android:id="@+id/txt2"
-                            android:layout_width="200dp"
+                            android:layout_width="wrap_content"
                             android:layout_height="75dp"
                             android:gravity="center"
                             android:layout_gravity="left"
@@ -363,7 +363,7 @@
                             app:layout_constraintLeft_toLeftOf="parent"/>
                         <TextView
                             android:id="@+id/txt3"
-                            android:layout_width="150dp"
+                            android:layout_width="wrap_content"
                             android:layout_height="75dp"
                             android:gravity="center"
                             android:layout_gravity="left"
@@ -422,7 +422,7 @@
                             app:layout_constraintLeft_toLeftOf="parent"/>
                         <TextView
                             android:id="@+id/txt4"
-                            android:layout_width="150dp"
+                            android:layout_width="wrap_content"
                             android:layout_height="75dp"
                             android:gravity="center"
                             android:layout_gravity="left"
@@ -483,7 +483,7 @@
                             app:layout_constraintLeft_toLeftOf="parent"/>
                         <TextView
                             android:id="@+id/txt6"
-                            android:layout_width="150dp"
+                            android:layout_width="wrap_content"
                             android:layout_height="75dp"
                             android:gravity="center"
                             android:layout_gravity="left"
@@ -542,7 +542,7 @@
                             app:layout_constraintLeft_toLeftOf="parent"/>
                         <TextView
                             android:id="@+id/txt7"
-                            android:layout_width="150dp"
+                            android:layout_width="wrap_content"
                             android:layout_height="75dp"
                             android:gravity="center"
                             android:layout_gravity="left"
