@@ -71,7 +71,7 @@ public class HardWareService extends Service {
         super.onStartCommand(intent, flags, startId);
         startTimer();
         FirebaseDatabase database = FirebaseDatabase.getInstance();
-        DatabaseReference myRef = database.getReference();
+        DatabaseReference myRef = database.getReference().child("40:F5:20:2E:7F:7D");
         myRef.addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
